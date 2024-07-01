@@ -1,5 +1,5 @@
 # Simple Conservation Mode Script For Linux on Lenovo Laptops 
-##### (Limits battery charge and prolong its life)
+##### (Limits battery charge and prolongs its life)
 
 This shell script switches on/off battery conservation mode in GNU/Linux operating system.
 
